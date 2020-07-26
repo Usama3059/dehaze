@@ -1,2 +1,7 @@
-# dehaze
-In this we input the image and it dehaze the image.
+# README
+
+- Removes Haze from images
+- deHaze.ipynb
+
+## Example
+- ![output](output.png)
